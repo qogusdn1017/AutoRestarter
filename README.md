@@ -159,6 +159,12 @@ So, to avoid these bugs as much as possible, I made it like this.
 
 ---
 
+## BUILD
+
+> Please use `./gradlew clean shadowJar` to build.
+
+---
+
 #### Contacts
 
 Normal : qogusdn1017@naver.com
