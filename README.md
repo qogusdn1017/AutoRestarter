@@ -1,6 +1,10 @@
 # AutoRestarter
 Auto Server Restart Plugin. Worked with **[[theo5970](https://github.com/theo5970)]**
 
+#CURRENT TODO LIST :
+
+- Making config.yml
+ 
 # KO
 
 ## 이 플러그인에 대하여
