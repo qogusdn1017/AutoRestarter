@@ -17,7 +17,7 @@ Auto Server Restart Plugin. Worked with **[[theo5970](https://github.com/theo597
 
 1. [[Releases](https://github.com/qogusdn1017/AutoRestarter/releases)]에 가서 AutoRestarter 최신버전을 받아주세요.
 
-2. [[Paper](https://papermc.io/downloads)]서버를 다운받아 적어도 한번 이상은 실행해주세요. (개발된 버전은 1.16.4 기준입니다.)
+2. [[Paper](https://papermc.io/downloads)]서버를 다운받아 적어도 한번 이상은 실행해주세요. (1.13.2 - 1.16.4)
 
 3. 플러그인을 서버 디렉터리 내부의 `plugins`폴더에 넣어주세요.
 
@@ -53,7 +53,7 @@ The name of the plugin is a plugin that automatically restarts, but actually `Bu
 
 1. Download the Latest version of AutoRestarter at [[Releases](https://github.com/qogusdn1017/AutoRestarter/releases)].
 
-2. Download [[Paper](https://papermc.io/downloads)] Server and run at least once. (Developed version is 1.16.4.)
+2. Download [[Paper](https://papermc.io/downloads)] Server and run at least once. (1.13.2 - 1.16.4.)
 
 3. Put the plugin in the `plugins` folder in the server directory.
 
