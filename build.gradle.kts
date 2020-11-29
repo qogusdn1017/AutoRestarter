@@ -12,7 +12,7 @@ repositories {
 
 dependencies {
     implementation(kotlin("stdlib-jdk8")) // Kotlin
-    implementation("com.destroystokyo.paper:paper-api:1.16.4-R0.1-SNAPSHOT") // Paper
+    implementation("com.destroystokyo.paper:paper-api:1.13.2-R0.1-SNAPSHOT") // Paper
 }
 
 tasks {
