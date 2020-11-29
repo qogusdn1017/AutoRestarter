@@ -4,6 +4,6 @@ authors:
   - theo5970
 main: works.baehyeonwoo.autorestarter.AutoMain
 version: 0.1
-api-version: 1.16
+api-version: 1.13
 description: "A plugin that automatically restarts server at 12:00 A.M."
 website: "https://baehyeonwoo.works/HyeonWeb/SourceCodes/PublicSource"
