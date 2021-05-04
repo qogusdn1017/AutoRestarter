@@ -3,7 +3,7 @@ Auto Server Restart Plugin. Worked with **[[theo5970](https://github.com/theo597
 
 # CURRENT TODO LIST :
 
-- Making config.yml
+- Making config.yml (Current ongoing progress on private repo!)
  
 # KO
 
